@@ -7,9 +7,9 @@ public class Basket {
     private double totalWeight = 0;
 
     public Basket() {
-        increaseCount(3);
+        increaseCount(2);
         items = "Список товаров:";
-        this.limit = 10000;
+        this.limit = 11000;
     }
 
     public Basket(int limit) {
