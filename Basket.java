@@ -9,7 +9,7 @@ public class Basket {
     public Basket() {
         increaseCount(1);
         items = "Список товаров:";
-        this.limit = 10000;
+        this.limit = 11000;
     }
 
     public Basket(int limit) {
